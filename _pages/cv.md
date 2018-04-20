@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Microbiology, University of Oklahoma, 2011
+* Ph.D Microbiology, University of Oklahoma, 2016
 
 Work experience
 ======
@@ -27,14 +26,22 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microbiology of the Built Environment
+ * Using cultivation based techniques to identify deleterious processes in the built environment
+ * Integration of physical testing methods (surface imaging, mass loss, and material strength testing) to confirm the effect of microbiology on materials
+* Extreme Environments
+  * Molecular based methods such as metagenomics and metatranscriptomics to investigate hot springs and alkaline lakes
+  * Growth of microorganisms from the subsurface
+
+Teaching Interests
+======
+* Reproducible research
+* Applications of bioinformatics to the built environment
+* Microbiology of the built environment
+* Software Carpentry
+
 
 Publications
 ======
@@ -56,4 +63,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Instructor: International GeoBiology summer course, 2013-2016
+* Co-founder and head of the Rocky Mountain GeoBiology Symposium, 2017-2018
+* Co-Chair, T249. New Voices in GeoBiology I. GSA 2017
