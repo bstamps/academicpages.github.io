@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Microbial life is all everywhere us
+Microbial life is all around us
 ======
 Yet manytimes we pass by it without a second thought, especially in the world we've built around us. My research attempts to understand _how_ and _if_ some of the microbes in our built environment are actually tearing it down. 
 
