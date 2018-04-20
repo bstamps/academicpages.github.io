@@ -4,3 +4,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 # This is still a work in progress.
 
+-----
+
+Welcome to the GitHub repo for my personal/professional page. The design was forked from  [the academicpages github](https://academicpages.github.io/). If you like the way my site looks- please fork the academicpages repository! 
