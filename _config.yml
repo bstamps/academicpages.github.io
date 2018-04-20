@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blake W Stamps, Ph.D. / Microbial Ecologist"
+title                    : "Blake W. Stamps, Ph.D."
 title_separator          : "-"
 name                     : &name "Blake W. Stamps"
-description              : &description "personal description"
+description              : &description "Microbiologist of many things, but mostly corrosion"
 url                      : https://bstamps.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/bstamps/bstamps.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Blake W. Stamps"
   avatar           : "profile.png"
-  bio              : "I'm a microbiologist and microbial ecologist interested in thinking about corrosion and degradation in the built environment"
+  bio              : "I'm a microbiologist and microbial ecologist interested in thinking about corrosion and degradation within the built environment"
   location         : "Golden, CO"
   employer         : "Colorado School of Mines"
   googlescholar    : "https://scholar.google.com/citations?user=udPUln4AAAAJ&hl=en"
