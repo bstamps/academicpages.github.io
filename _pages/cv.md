@@ -14,17 +14,22 @@ Education
 * B.S. Microbiology, University of Oklahoma, 2011
 * Ph.D Microbiology, University of Oklahoma, 2016
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2017 - Current: **Sloan Postdoctoral Fellow**
+  * Colorado School of Mines
+  * **Biodeterioration and Biocorrosion in Spaceflight Ecosystems: Implications for Material/Microbiome Interactions on the International Space Station**
+  * Supervisor: John R. Spear
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2016 - October 2017: **Postdoctoral Research Fellow**
+  * Colorado School of Mines
+  *  **Characterization of the Microbiome of a State-of-the-Art Water Reuse System to Enhance Treatment Performance**
+  * Supervisor: John R. Spear
+
+* June 2012 - July 2016: **Graduate Research Assistant**
+  * University of Oklahoma
+  * **Measuring The Impact Of Microbial Communities And Their Proliferation In Engineered Ecosystems**
+  * Supervisor: Bradley S. Stevenson
   
 Research Interests
 ======
