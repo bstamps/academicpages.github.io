@@ -11,29 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Microbiology, University of Oklahoma, 2011
-* Ph.D in Microbiology, University of Oklahoma, 2016
+* B.S. in Github, Github University, 2012
+* M.S. in Jekyll, Github University, 2014
+* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
 Work experience
 ======
-* November 2017 - Current: Sloan Postdoctoral Fellow
-  * Colorado School of Mines
-  * **Biodeterioration and Biocorrosion in Spaceflight Ecosystems: Implications for Material/Microbiome Interactions on the International Space Station**
-  * Supervisor: John R. Spear
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* August 2016 - October 2017: Postdoctoral Research Fellow
-  * Colorado School of Mines
-  * **Characterization of the Microbiome of a State-of-the-Art Water Reuse System to Enhance Treatment Performance**
-  * Supervisor: John R. Spear
-
-* August 2011 - July 2016: Graduate Research Assistant
-  * University of Oklahoma
-  * **Measuring the Impact of Microbial Communities and Their Proliferation in Engineered Ecosystems**
-  * Supervisor: Bradley S. Stevenson
-
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
-  
-Skills (To-Do)
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -48,6 +42,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -57,5 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Instructor: International GeoBiology Course, 2013-2016
-* Certified Software Carpentry Instructor
+* Currently signed in to 43 different slack teams
