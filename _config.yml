@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blake W. Stamps, Ph.D. / Microbial Ecologist"
+title                    : "Blake W Stamps, Ph.D. / Microbial Ecologist"
 title_separator          : "-"
 name                     : &name "Blake W. Stamps"
 description              : &description "personal description"
