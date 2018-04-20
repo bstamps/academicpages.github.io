@@ -1,8 +1,8 @@
 ---
 title: "Genome sequence of Youngiibacter fragilis, the type strain of the genus Youngiibacter"
 collection: publications
-permalink: /publication/2/27/14-Youngiibacter Genome
-date: 2/27/14
+permalink: /publication/2014-02-27-Youngiibacter Genome
+date: 2014-02-27
 venue: 'Genome announcements'
 paperurl: 'http://genomea.asm.org/content/2/1/e01183-13.full'
 citation: 'Genome sequence of Youngiibacter fragilis, the type strain of the genus Youngiibacter'
