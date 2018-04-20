@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "CEEN 599G"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2018-spring-independent
+venue: "Colorado School of Mines, Civil and Environmental Engineering"
+date: 2018-01-01
+location: "Golden, CO"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+
+Bioinformatics and Genomics
 ======
 
-Heading 2
-======
+CEEN 599G focused on graduate instruction of the genomics and bioinformatic analyses of environmental or applied systems. We used student's own data to analyze 16S/18S rRNA gene sequence data. Broad topics included 
 
-Heading 3
-======
+1. A broad introduction to the tree of life/evolution
+2. The history of sequencing
+3. Applications of 16S/18S rRNA gene sequencing
+4. R, and phylogenetic analysis in R
+5. Cloud computing
+6. Metagenomic analyses
