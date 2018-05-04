@@ -1,5 +1,5 @@
 ---
-title: "Applied Bioinformatics"
+title: "BIOL 598A: Applied Bioinformatics"
 collection: teaching
 type: "Class"
 permalink: /teaching/2018-fall-teaching-1
@@ -8,7 +8,7 @@ date: 2018-08-01
 location: "Golden, CO"
 ---
 
-Overview
+BIOL598A: Overview
 ======
 Throughout both natural and engineered systems, microorganisms are ever-present. Modern tools of DNA and RNA sequencing enable us to explore ecosystems to an unprecedented depth; however, these sequencing techniques also require an understanding of computation and data processing to decipher what microorganisms might be in an environment, and what they are doing. Applied Bioinformatics will instruct students on topics in bioinformatics and microbial ecology, giving both biologists and engineers an introduction to DNA sequencing technologies, the bioinformatic tools needed to analyze these data, and the confidence to process large datasets. The course will enable students to produce publication quality graphics in R and explore the topic of reproducible research. Statistical concepts in biological and non-biological systems within R will also be discussed. Finally, the course will expose students to high-performance and cloud computing, using microbiological datasets as case studies. 
 
