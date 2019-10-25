@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Corrosive Microbiology"
+title: "Microbiology of the Built Environment... And Beyond!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ To do this, I use microorganisms isolated from across the built environment, eve
 
 Where I work
 ------
-I currently reside in the hub of the universe- Golden, Colorado! We're a small town near the foothills of the Colorado front range near Denver. Specifically, I work within the department of Civil and Environmental Engineering at the Colorado School of Mines. 
+I currently reside in Dayton, Ohio and work within the 711th Human Performance Wing at the Air Force Research Laboratory as a contracted research scientist with UES, Inc. 
 
 
 
