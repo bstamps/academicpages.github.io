@@ -16,7 +16,12 @@ Education
 
 Work Experience
 ======
-* November 2017 - Current: **Sloan Postdoctoral Fellow**
+* June 2019 - Current: **Research Scientist**
+  * UES, Inc.
+  * 711th Human Performance Wing, Air Force Research Laboratory
+
+  
+* November 2017 - June 2019: **Sloan Postdoctoral Fellow**
   * Colorado School of Mines
   * **Biodeterioration and Biocorrosion in Spaceflight Ecosystems: Implications for Material/Microbiome Interactions on the International Space Station**
   * Supervisor: John R. Spear
@@ -43,8 +48,8 @@ Research Interests
 Teaching Interests
 ======
 * Reproducible research
-* Applications of bioinformatics to the built environment
-* Microbiology of the built environment
+* Applications of bioinformatics to the built environment and sustainable ecosystems
+* Microbiology of the built environment and water treatment
 * Software Carpentry
 
 
